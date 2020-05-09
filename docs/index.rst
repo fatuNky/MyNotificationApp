@@ -3,13 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MyNotificationApp's documentation!
+Fatu's Documentation Page!
 =============================================
+
+A small documentation Page to play around with
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   pages/getting-started
 
 
 Indices and tables
